@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-colorscheme              : "light" # "light" (default), "dark"
+colorscheme              : "dark" # "light" (default), "dark"
 title                    : "Seoyeon Lim"
 title_separator          : "-"
 name                     : &name "Your Name"
