@@ -25,13 +25,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Seoyeon Lim"
+  pronouns         : # example: "she/her"
+  bio              : "PhD Student in Economics"
+  location         : "Columbus, OH, USA"
+  employer         : "The Ohio State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lim.1523@osu.edu"
+  cv               : "/files/cv.pdf" # path to your CV file
 
   # Academic websites
   academia         : # URL
