@@ -7,16 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-PhD Student in Economics at [The Ohio State University](https://economics.osu.edu/)
+Welcome! I am a PhD student in Economics at [The Ohio State University](https://economics.osu.edu/). My research focuses on macroeconomics, housing, and household finance, with a particular interest in wealth inequality dynamics.
 
-**Research Interests** &nbsp;&nbsp; Macroeconomics, Housing, Household Finance, Wealth Inequality
+**Research Interests:** Macroeconomics, Housing, Household Finance, Wealth Inequality
 
----
+#### Recent Updates
 
-## Research
-
-<span style="color: #C4527A;">Work in progress</span>
-
-**House Price Risk and Wealth Inequality Dynamics**
-
-**Mortgage Denial Rate and Distribution of Wealth**
+- <span style="color:#C4527A">**[Work in Progress]**</span> **House Price Risk and Wealth Inequality Dynamics**
+- <span style="color:#C4527A">**[Work in Progress]**</span> **Mortgage Denial Rate and Distribution of Wealth**
