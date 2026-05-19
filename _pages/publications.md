@@ -15,21 +15,21 @@ author_profile: true
   .pub-entry   { margin-bottom: 1.4em; }
 </style>
 
-<p class="pub-section">Predoc Work</p>
+<p class="pub-section">Pre-Doc Work</p>
 
 <div class="pub-entry">
-  <div class="pub-title">"PLACEHOLDER — please fill in title of ScienceDirect paper"</div>
-  <div class="pub-authors">(with Co-Author)</div>
-  <div class="pub-venue">Journal Name, 2024</div>
+  <div class="pub-title">"Dynamic Credit Risk Transmissions Among Global Major Industries"</div>
+  <div class="pub-authors">(with Sun-Yong Choi)</div>
+  <div class="pub-venue">The North American Journal of Economics and Finance, Vol.74, 102251 (Sep 2024)</div>
   <div class="pub-links">
     [<a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Published Version</a>]
   </div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">"Impact of Liquidity Spillovers among Industrial Sectors on Stock Markets during Crisis Periods: Evidence from the S&P 500 Index"</div>
+  <div class="pub-title">"Impact of Liquidity Spillovers Among Industrial Sectors on Stock Markets During Crisis Periods"</div>
   <div class="pub-authors">(with Sun-Yong Choi)</div>
-  <div class="pub-venue">PLOS ONE, 2022</div>
+  <div class="pub-venue">PLOS ONE, 17(11) (Nov 2022)</div>
   <div class="pub-links">
     [<a href="https://doi.org/10.1371/journal.pone.0277261">Published Version</a>]
   </div>
