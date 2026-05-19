@@ -21,16 +21,12 @@ author_profile: true
   <div class="pub-title">"Dynamic Credit Risk Transmissions Among Global Major Industries"</div>
   <div class="pub-authors">(with Sun-Yong Choi)</div>
   <div class="pub-venue">The North American Journal of Economics and Finance, Vol.74, 102251 (Sep 2024)</div>
-  <div class="pub-links">
-    [<a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Published Version</a>]
-  </div>
+  <div class="pub-links">[<a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Published Version</a>]</div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title">"Impact of Liquidity Spillovers Among Industrial Sectors on Stock Markets During Crisis Periods"</div>
   <div class="pub-authors">(with Sun-Yong Choi)</div>
   <div class="pub-venue">PLOS ONE, 17(11) (Nov 2022)</div>
-  <div class="pub-links">
-    [<a href="https://doi.org/10.1371/journal.pone.0277261">Published Version</a>]
-  </div>
+  <div class="pub-links">[<a href="https://doi.org/10.1371/journal.pone.0277261">Published Version</a>]</div>
 </div>
