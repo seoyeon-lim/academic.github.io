@@ -20,7 +20,7 @@ author_profile: true
 <div class="pub-entry">
   <div class="pub-title">Dynamic Credit Risk Transmissions Among Global Major Industries</div>
   <div class="pub-authors">(with Sun-Yong Choi)</div>
-  <div class="pub-venue">The North American Journal of Economics and Finance, 2024</div>
+  <div class="pub-venue">North American Journal of Economics and Finance, 2024</div>
   <div class="pub-links"><a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">[Published Version]</a></div>
 </div>
 
