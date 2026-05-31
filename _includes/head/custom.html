@@ -25,11 +25,17 @@
   .masthead::after {
     content: '';
     display: block;
-    height: 2px !important;
+    height: 1px !important;
+    background: linear-gradient(to right, var(--global-bg-color), var(--global-base-color), var(--global-bg-color)) !important;
+  }
+  .masthead__inner-wrap::after {
+    content: '';
+    display: block;
+    height: 1px !important;
     background: linear-gradient(to right, var(--global-bg-color), var(--global-base-color), var(--global-bg-color)) !important;
   }
   .page__footer {
-    border-top: 2px solid var(--global-base-color);
+    border-top: 1px solid var(--global-base-color);
   }
 </style>
 
