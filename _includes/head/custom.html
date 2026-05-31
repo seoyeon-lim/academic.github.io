@@ -22,6 +22,15 @@
   .page__title { font-size: 1.4em !important; }
   .page__content a { text-decoration: none; }
   .page__content a:hover { color: var(--global-base-color); text-decoration: none; }
+  .masthead::after {
+    content: '';
+    display: block;
+    height: 2px !important;
+    background: linear-gradient(to right, var(--global-bg-color), var(--global-base-color), var(--global-bg-color)) !important;
+  }
+  .page__footer {
+    border-top: 2px solid var(--global-base-color);
+  }
 </style>
 
 <!-- end custom head snippets -->
