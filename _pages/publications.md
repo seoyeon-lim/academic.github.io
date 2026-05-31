@@ -9,8 +9,8 @@ author_profile: true
   .pub-title   { font-size: 0.92em; font-weight: bold; }
   .pub-title a { color: var(--global-text-color); text-decoration: none; }
   .pub-title a:hover { color: var(--global-base-color); text-decoration: none; }
-  .pub-authors { font-size: 0.83em; color: var(--global-text-color-light); }
-  .pub-venue   { font-size: 0.85em; font-style: italic; color: var(--global-text-color-light); }
+  .pub-authors { font-size: 0.83em; color: #8090a8; }
+  .pub-venue   { font-size: 0.85em; font-style: italic; color: var(--global-base-color); }
   .pub-section { font-size: 1em; font-weight: bold; border-bottom: 1px solid var(--global-border-color); padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 1em; }
   .pub-entry   { margin-bottom: 1.4em; }
 </style>
