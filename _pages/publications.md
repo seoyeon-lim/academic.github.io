@@ -15,7 +15,7 @@ author_profile: true
   .pub-entry   { margin-bottom: 1.4em; }
 </style>
 
-<p class="pub-section">Pre-Doc Work</p>
+<p class="pub-section">Pre-PhD Work</p>
 
 <div class="pub-entry">
   <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1062940824001761">Dynamic Credit Risk Transmissions Among Global Major Industries</a></div>
