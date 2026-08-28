@@ -15,6 +15,12 @@ author_profile: true
   .pub-entry   { margin-bottom: 1.4em; }
 </style>
 
+<p class="pub-section">Work in Progress</p>
+
+<div class="pub-entry">
+  <div class="pub-title">Housing Risk, Portfolio Choice, and Wealth Distribution</div>
+</div>
+
 <p class="pub-section">Pre-Doc Work</p>
 
 <div class="pub-entry">
