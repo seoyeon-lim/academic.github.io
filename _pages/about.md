@@ -11,5 +11,4 @@ Welcome! I am a PhD student in Economics at [The Ohio State University](https://
 
 #### Recent Work
 
-- <span style="color:var(--global-base-color)">**[Work in Progress]**</span> House Price Risk and the Distributional Effects
-- <span style="color:var(--global-base-color)">**[Work in Progress]**</span> Mortgage Denial Rate and the Distribution of Wealth
+- <span style="color:var(--global-base-color)">**[Work in Progress]**</span> Housing Risk, Portfolio Choice, and Wealth Distribution
