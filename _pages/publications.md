@@ -18,7 +18,7 @@ author_profile: true
 <p class="pub-section">Work in Progress</p>
 
 <div class="pub-entry">
-  <div class="pub-title">Housing Risk, Portfolio Choice, and Wealth Distribution</div>
+  <div class="pub-title">Housing Risk, Portfolio Choice, and the Distribution of Wealth</div>
 </div>
 
 <p class="pub-section">Pre-Doc Work</p>
