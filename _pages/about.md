@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a PhD student in Economics at [The Ohio State University](https://economics.osu.edu/). My research lies at the intersection of macroeconomics, housing, household finance, and wealth inequality. My central question is how heterogeneous exposure to housing market risks—through mortgage market conditions and house price uncertainty—shapes household balance sheet decisions and wealth inequality, and how policy interventions disproportionately affect households facing these risks.
 
-You can reach me at [limseoyn@gmail.com](mailto:limseoyn@gmail.com).
+Contact: [limseoyn@gmail.com](mailto:limseoyn@gmail.com) &nbsp; [lim.1523@osu.edu](mailto:lim.1523@osu.edu)
 
 #### Recent Work
 
