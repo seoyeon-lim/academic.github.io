@@ -21,8 +21,6 @@ author_profile: true
   <div class="pub-title">Housing Risk, Portfolio Choice, and the Distribution of Wealth</div>
 </div>
 
-<br>
-
 <p class="pub-section">Pre-Doc Work</p>
 
 <div class="pub-entry">
