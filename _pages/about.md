@@ -15,4 +15,4 @@ Contact: [lim.1523@osu.edu](mailto:lim.1523@osu.edu)
 
 #### Recent Work
 
-- <span style="color:var(--global-base-color)">**[Work in Progress]**</span> Housing Risk, Portfolio Choice, and the Distribution of Wealth
+- <span style="color:var(--global-base-color)">**[Work in Progress]**</span> Local House Price Risk, Portfolio Choice, and Wealth Inequality
