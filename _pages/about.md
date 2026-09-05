@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a PhD student in Economics at [The Ohio State University](https://economics.osu.edu/). My research lies at the intersection of **macroeconomics, housing, household finance, and wealth inequality**.
 
-My central question is how heterogeneous exposure to housing market risks—through mortgage market conditions and house price uncertainty—shapes household balance sheet decisions and wealth inequality, and how policy interventions disproportionately affect households facing these risks.
+My research studies how households' heterogeneous exposure to local housing market risk—arising from differences in homeownership, leverage, and portfolio composition—shapes balance-sheet decisions and the distribution of wealth. More broadly, I am interested in how macroeconomic policies interact with household heterogeneity and generate distributional effects.
 
 Contact: [lim.1523@osu.edu](mailto:lim.1523@osu.edu)
 
